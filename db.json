@@ -2,7 +2,9 @@
   "systems": [
     { "id": 1, "title": "Plumbing" },
     { "id": 2, "title": "Electrical" },
-    { "id": 3, "title": "Roof" }
+    { "id": 3, "title": "Roof" },
+    { "id": 3, "title": "Exterior" },
+    { "id": 3, "title": "Garage" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
